@@ -1,0 +1,11 @@
+{
+  "name": "get-pass-api",
+  "version": "1.0.0",
+  "description": "API for GET-PASS ( A password manager app ) :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ram Maheshwari",
+  "license": "ISC"
+}
